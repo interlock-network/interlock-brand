@@ -1,2 +1,3 @@
 # interlock-brand
-![Interlock Portrait](https://user-images.githubusercontent.com/37465733/156758205-776a0e82-284d-491a-a0c5-f93c62aee22e.png)
+
+![Interlock Portrait@4x](https://user-images.githubusercontent.com/37465733/156758252-7ddbbfdc-c4e0-487b-abfa-d6e7c102ec7e.png)
